@@ -384,8 +384,7 @@ class _ChatPageState extends State<ChatPage> {
                       size: 35,
                       color: Colors.white,
                     )
-                  : const Icon(Icons
-                      .link_off), // İşlem devam etmiyorsa, normal ikonu göster
+                  : const Icon(Icons.link_off),
             )
           ],
         ),
