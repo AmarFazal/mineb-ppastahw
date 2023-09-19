@@ -535,5 +535,3 @@ class _ChatPageState extends State<ChatPage> {
     return AgentMessage(message: message);
   }
 }
-//asd
-//Hea
